@@ -1,4 +1,5 @@
 prompt = ""
+# initally we will set ans as 0
 answer = 0
 while prompt.lower() != "q":
     prompt = input("Enter Value: ")
